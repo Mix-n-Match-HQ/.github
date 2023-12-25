@@ -2,7 +2,9 @@
 
 Mix-n-Match pioneers web3.0 social dynamics, seamlessly uniting users with random strangers in an immersive virtual window. Elevate connections, cross-culture dialogues, and spontaneous chats. Our iframe innovation extends integration, enhancing community engagement on websites. Experience the web3.0 evolution.
 
-![ezgif-2-5fa2077a2c](https://user-images.githubusercontent.com/32412967/236345529-3104e19c-7444-4c3d-bde8-571a3c7c78c9.gif)
+### Click to watch demo video 👇:
+
+[![Watch the video](https://user-images.githubusercontent.com/32412967/236345529-3104e19c-7444-4c3d-bde8-571a3c7c78c9.gif)](https://youtu.be/KFZSQiSsYu0)
 
 ## **Core Objectives & Features**
 
