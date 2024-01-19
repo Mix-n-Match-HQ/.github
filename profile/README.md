@@ -65,12 +65,12 @@ By using the iframe code provided by your application, website owners can add yo
 - Incorporating a user-friendly interface that fosters effortless interactions.
 - Introduction of the iframe version, enabling seamless embedding on external websites and communities, bolstering DAO projects and community cohesion.
 
-### **2023 Q4:**
+### **2024 Q1:**
 
 - Elevating the chat experience through personalized features, allowing users to tailor interactions to their preferences.
 - Implementation of robust security measures, ensuring a safe and secure environment for all users.
 
-### **2024 Q1:**
+### **2024 Q2:**
 
 - Expanding the user base through strategic partnerships with diverse online communities and platforms.
 - Introducing innovative features such as language preferences and topic-based matching, catering to a spectrum of user interests.
